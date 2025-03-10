@@ -61,7 +61,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 # License
 
-    Copyright 2018 Pawan Kumar
+    Copyright 2018 charles marxist
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
